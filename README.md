@@ -1,0 +1,71 @@
+<html>
+     <head>
+          <title>RESUME</title>
+<style>
+h3.h3{
+background-color:black;
+color:white;
+width=15%;
+}
+.red{
+color:red;}0 
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+
+     </head>
+     <body>
+
+          <h1 align=center>RESUME</h1>
+          <h4 align=right>VANAM RAMU<br/>
+                       Ph:7731030409<br/>
+                  mail ID:vramu642@gmail.com</h4>
+          <hr width=100%>
+          <h3 class="h3">CAREER OBJECTIVE :</h3>
+          <p>Willing to work in a challenging position with a growing
+             Organization where I can utilize my technical and interpersonal
+             skills to serve the organization and enhanced the same.<br/>
+
+          <h3 class="h3">EDUCATION QUALIFICATIONS :</h3>
+        <p>  <table border=5 width=80% align=center >
+
+                <tr class="red"><td>S.NO</td><td>COURSE</td><td>UNIVERSITY</td><td>COLLEGE</td>
+                <td>PERCENTAGE</td><td>YEAR OF PASSING</td></tr>
+                <tr><td>1</td><td>MCA</td><td>JNTUH</td><td>ST.MARY's ENGINEERING COLLEGE</td>
+                <td>75%</td><td>2016</td></tr>
+                <tr><td>2</td><td>DEGREE</td><td>OSMANIA UNIVERSITY</td><td>MATHRUSREE DEGREE COLLEGE</td>
+                <td>70%</td><td>2013</td></tr>
+                <tr><td>3</td><td>10+2</td><td>INTER BOARD</td><td>ARAVINDO JUNIOR COLLEGE</td>
+                <td>61%</td><td>2010</td></tr>
+                <tr><td>4</td><td>SSC</td><td>SECONDARY SCHOOL BOARD</td><td>Z.P.H.SCHOOL </td>
+                <td>60%</td><td>2008</td></tr>
+      
+          </table><br/>
+          <h3 class="h3">TECHNICAL SKILLS :</h3>
+         <p> <ul><li>Operating System:MS- WindowsXP, windows7</li>
+              <li>Programming Languages :C, C++, C#</li>
+              <li>Web Technologies:HTML, JavaScript</li>
+          </ul>
+          <h3 class="h3">PERSONAL QUALITIES :</h3>
+             <p> <ul><li>Smart Worker.</li>
+                  <li>Adaptability, Knowledge and Focus on work.</li>
+                  <li>Keep myself calm in pressure situation.</li>
+              </ul>
+          <h3 class="h3">PERSONAL PROFILE :</h3>
+<p>
+<table border=3 align=center width=80%>
+<tr><td><center><h5>
+ <p>Name:        VANAM RAMU</p>
+<p> F'Name: VERAMOHAN</p>
+ <p>DATE OF BIRTH: 04-09-1993</p>
+ <p>ADDRESS : 4-66/a,S.lingotam,choutuppal(mdl),
+                    yadhadhri(dist).
+              </h5></center></td></tr></table>
+<h3 class="h3">DECLARATION :</h3>
+<p>I do hereby declare that the above given statements are true and correct to the best of my knowledge.
+<p align=right>SIGN</p>
+<p align=right>(V.RAMU)
+
+
+</body>
+</html>
