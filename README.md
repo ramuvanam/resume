@@ -10,9 +10,6 @@ width=15%;
 .red{
 color:red;}0 
 </style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-
      </head>
      <body>
 
